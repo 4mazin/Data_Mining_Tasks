@@ -31,7 +31,6 @@ Predict the `Sales` value based on advertisement spending on **TV**, **Radio**, 
 - **Mean Error**: Mean difference between predicted and actual sales
 - **Mean Squared Error (MSE)**
 
-📁 Notebook: [`Data_Mining_Regression.ipynb`](./Data_Mining_Regression.ipynb)
 
 ---
 
