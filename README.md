@@ -34,10 +34,10 @@ Predict the `Sales` value based on advertisement spending on **TV**, **Radio**, 
 
 ---
 
-## 🔍 Task 2: Car Buyer Decision Prediction (KNN Classification)
+## 🔍 Task 2: Car Buyer Decision (KNN Classification)
 
 ### 🎯 Objective:
-Predict the `Decision` (e.g. `unacc`, `acc`, `vgood`, `good`) that a customer makes about buying a car based on vehicle features.
+Choose the best `Decision` (e.g. `unacc`, `acc`, `vgood`, `good`) that a customer makes about buying a car based on vehicle features.
 
 ### 📊 Dataset Features:
 - `buying_price`
